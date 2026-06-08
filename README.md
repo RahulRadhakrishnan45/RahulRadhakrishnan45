@@ -38,8 +38,8 @@
 
 ### ⚡ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahulRadhakrishnan45&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RahulRadhakrishnan45&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RahulRadhakrishnan45&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=RahulRadhakrishnan45&theme=github-dark-blue&hide_border=true" height="165" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulRadhakrishnan45&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
@@ -49,6 +49,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulRadhakrishnan45&bg_color=0d1117&color=00bfff&line=ff0099&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
+
 ---
 ### 🏆 GitHub Trophies
 <p align="center">
@@ -56,6 +57,7 @@
   <img src="./assets/50-26.gif" width="120">
   <img src="./assets/100.gif" width="140">
 </p>
+
 ---
 ### 🤝 Connect With Me
 <p>
