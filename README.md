@@ -67,6 +67,7 @@
   <img src="https://raw.githubusercontent.com/RahulRadhakrishnan45/RahulRadhakrishnan45/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 ---
+
 ### 🤝 Connect With Me
 <p>
   <a href="https://www.linkedin.com/in/rahul-radhakrishnan-mernstack/" target="_blank">
