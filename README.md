@@ -66,6 +66,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/RahulRadhakrishnan45/RahulRadhakrishnan45/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
+
 ---
 
 ### 🤝 Connect With Me
@@ -86,7 +87,9 @@
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=LeetCode&logoColor=white"/>
   </a>
 </p>
+
 ---
+
 <h3 align="center">✨ "Code is not just syntax — it's the craft of building the future." ✨</h3>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
