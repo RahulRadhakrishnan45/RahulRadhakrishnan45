@@ -1,7 +1,7 @@
 <!-- ✨ GitHub Profile README - Rahul Radhakrishnan -->
 <h1 align="center">
   <a href="https://github.com/RahulRadhakrishnan45" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi+There+👋;I'm+Rahul+Radhakrishnan;MERN+Stack+Developer; Building+the+Web%2C+One+Stack+at+a+Time" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi+There+👋;I'm+Rahul+Radhakrishnan;MERN+Stack+Developer; Building+the+Web%2C+One+Stack+at+a+Time+" alt="Typing SVG" />
   </a>
 </h1>
 ---
