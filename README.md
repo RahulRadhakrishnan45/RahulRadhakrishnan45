@@ -22,7 +22,7 @@
 ---
 ### 🛠️ Tech Stack
 #### 💻 Languages
-![JavaScript][![My Skills](https://skillicons.dev/icons?js i=js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?js i=js)](https://skillicons.dev)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
