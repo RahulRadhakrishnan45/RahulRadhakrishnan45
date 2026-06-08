@@ -4,11 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi+There+👋;I'm+Rahul+Radhakrishnan;MERN+Stack+Developer" alt="Typing SVG" />
   </a>
 </h1>
----
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RahulRadhakrishnan45&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/RahulRadhakrishnan45?label=Followers&style=for-the-badge&color=blue" alt="followers" />
   <img src="https://img.shields.io/github/stars/RahulRadhakrishnan45?label=Stars&style=for-the-badge&color=blueviolet" alt="stars" />
+  <img src="https://img.shields.io/badge/Max%20Streak-30%20days-brightgreen?style=for-the-badge" alt="max-streak" />
 </p>
 <h3 align="center">🌌 Passionate About MERN Stack | Full Stack Web Development 🌌</h3>
 ---
