@@ -5,27 +5,37 @@
   </a>
 </h1>
 
+---
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RahulRadhakrishnan45&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/RahulRadhakrishnan45?label=Followers&style=for-the-badge&color=blue" alt="followers" />
   <img src="https://img.shields.io/github/stars/RahulRadhakrishnan45?label=Stars&style=for-the-badge&color=blueviolet" alt="stars" />
   <img src="https://img.shields.io/badge/Max%20Streak-30%20days-brightgreen?style=for-the-badge" alt="max-streak" />
 </p>
+
+
+
 <h3 align="center">🌌 Passionate About MERN Stack | Full Stack Web Development 🌌</h3>
+
 ---
-### 🧠 About Me
+
+### 🧠 About Me 
+
 - 🚀 Love building full-stack web applications using the **MERN Stack**
 - 💡 Always exploring new technologies and best practices in web development
 - 🎯 Focused on writing clean, scalable, and maintainable code
 - 🌱 Currently leveling up in **TypeScript**, **System Design**, and **Cloud (AWS)**
 - 💬 Ask me about **React**, **Node.js**, **MongoDB**, **REST APIs**
 - ⚡ Fun fact: I think in components and breathe JavaScript!
+
 ---
 ### 🛠️ Tech Stack
-#### 💻 Languages
-## 💻 Tech Stack
+
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,vite,nodejs,express,mongodb,postgres,redis,firebase,aws,docker,nginx,vercel,git,github,postman,figma,vscode,npm)](https://skillicons.dev)
+
 ### ⚡ GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RahulRadhakrishnan45&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
