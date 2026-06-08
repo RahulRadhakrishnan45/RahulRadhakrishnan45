@@ -52,9 +52,9 @@
 ---
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="./assests/50days.gif" width="120">
-  <img src="./assests/50-26.gif" width="120">
-  <img src="./assests/100.gif" width="120">
+  <img src="./assets/50days.gif" width="120">
+  <img src="./assets/50-26.gif" width="120">
+  <img src="./assets/100.gif" width="120">
 </p>
 ---
 ### 🤝 Connect With Me
