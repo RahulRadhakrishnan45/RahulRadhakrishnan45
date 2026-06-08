@@ -52,7 +52,9 @@
 ---
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RahulRadhakrishnan45&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="./assests/50days.gif" width="120">
+  <img src="./assests/50-26.gif" width="120">
+  <img src="./assests/100.gif" width="120">
 </p>
 ---
 ### 🤝 Connect With Me
