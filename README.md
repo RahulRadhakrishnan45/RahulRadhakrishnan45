@@ -41,9 +41,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RahulRadhakrishnan45&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
   <img src="https://streak-stats.demolab.com?user=RahulRadhakrishnan45&theme=github-dark-blue&hide_border=true" height="165" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulRadhakrishnan45&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
-</p>
+</p> -->
 ---
 ### 🔥 GitHub Activity Graph
 <p align="center">
@@ -51,7 +51,7 @@
 </p>
 
 ---
-### 🏆 GitHub Trophies
+### 🏆 Leetcode Badges
 <p align="center">
   <img src="./assets/50days.gif" width="100">
   <img src="./assets/50-26.gif" width="120">
@@ -59,21 +59,24 @@
 </p>
 
 ---
+
+
+---
 ### 🤝 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/" target="_blank">
+  <a href="https://www.linkedin.com/in/rahul-radhakrishnan-mernstack/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com" target="_blank">
+  <a href="mailto:rahulkrishna1595@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://x.com/YOUR-TWITTER-HANDLE" target="_blank">
+  <a href="https://x.com/ImRa45" target="_blank">
     <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/YOUR-INSTAGRAM-HANDLE/" target="_blank">
+  <a href="https://www.instagram.com/lazy_elegance_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/YOUR-LEETCODE-USERNAME/" target="_blank">
+  <a href="https://leetcode.com/u/lazyelegance_rahul/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=LeetCode&logoColor=white"/>
   </a>
 </p>
