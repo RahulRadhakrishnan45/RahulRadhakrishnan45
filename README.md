@@ -26,7 +26,7 @@
 - 🚀 Love building full-stack web applications using the **MERN Stack**
 - 💡 Always exploring new technologies and best practices in web development
 - 🎯 Focused on writing clean, scalable, and maintainable code
-- 🌱 Currently leveling up in **TypeScript**, **System Design**, and **Cloud (AWS)**
+- 🌱 Currently leveling up in **TypeScript**, **React**, and **System Design**
 - 💬 Ask me about **React**, **Node.js**, **MongoDB**, **REST APIs**
 - ⚡ Fun fact: I think in components and breathe JavaScript!
 
