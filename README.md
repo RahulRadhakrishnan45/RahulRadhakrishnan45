@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RahulRadhakrishnan45&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/RahulRadhakrishnan45?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/github/followers/rahulradhakrishnan45?label=Followers&style=for-the-badge&color=blue" alt="followers" />
   <img src="https://img.shields.io/github/stars/RahulRadhakrishnan45?label=Stars&style=for-the-badge&color=blueviolet" alt="stars" />
   <img src="https://img.shields.io/badge/Max%20Streak-30%20days-brightgreen?style=for-the-badge" alt="max-streak" />
 </p>
