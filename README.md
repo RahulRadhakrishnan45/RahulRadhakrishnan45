@@ -34,7 +34,7 @@
 ### 🛠️ Tech Stack
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,vite,nodejs,express,mongodb,postgres,redis,firebase,aws,docker,nginx,vercel,git,github,postman,figma,vscode,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,nodejs,express,mongodb,aws,nginx,vercel,git,github,postman,figma,vscode,npm)](https://skillicons.dev)
 
 ### ⚡ GitHub Stats
 <p align="center">
