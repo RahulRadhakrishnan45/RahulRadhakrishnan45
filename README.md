@@ -55,8 +55,9 @@
 ### 🏆 Leetcode Badges
 <p align="center">
   <img src="./assets/50days.gif" width="100">
-  <img src="./assets/50-26.gif" width="120">
-  <img src="./assets/100.gif" width="140">
+  <img src="./assets/50-26.gif" width="110">
+  <img src="./assets/100.gif" width="120">
+  <img src="./assets/200.gif" width="130">
 </p>
 
 ---
